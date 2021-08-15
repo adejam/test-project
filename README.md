@@ -1,6 +1,6 @@
-# Project Name
+# Test Project
 
-> One paragraph statement about the project.
+> Just a test project.
 
 ![screenshot](./app_screenshot.png)
 
