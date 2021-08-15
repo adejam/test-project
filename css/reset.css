@@ -1,1 +1,7 @@
-/* Base styles */
+body {
+    font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: left;
+}
